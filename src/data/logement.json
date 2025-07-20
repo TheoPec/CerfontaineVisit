@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Gîtes Paille-Foin",
+    "image": "/images/gitefoin.webp",
+    "location": "192F, Rue de l'Horloge, 5630"
+  },
+  {
+    "id": 2,
+    "name": "Gîte des Bois",
+    "image": "/images/gite-bois.webp",
+    "location": "Chemin des Bois 8, Cerfontaine"
+  },
+  {
+    "id": 3,
+    "name": "Camping Nature",
+    "image": "/images/camping-nature.webp",
+    "location": "Route de la Forêt 5, Cerfontaine"
+  }
+]

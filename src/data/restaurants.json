@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Madame Papote",
+    "image": "/images/papote.webp",
+    "location": "Pl. de l'Eglise 14, 5630 Cerfontaine"
+  },
+  {
+    "id": 2,
+    "name": "Le Relais de Cerfontaine",
+    "image": "/images/relaisdecerfontaine.webp",
+    "location": "Pl. du Monument 2, 5630 Cerfontaine"
+  },
+  {
+    "id": 3,
+    "name": "La Table d'Elyse",
+    "image": "/images/elyse.webp",
+    "location": "Rue de Senzeilles 2, 5630 Cerfontaine"
+  }
+]

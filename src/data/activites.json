@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Randonnée en forêt",
+    "image": "/images/randonnee.webp",
+    "description": "Explorez les magnifiques sentiers de la forêt de Cerfontaine."
+  },
+  {
+    "id": 2,
+    "name": "Kayak sur les lacs",
+    "image": "/images/kayak.webp",
+    "description": "Profitez d'une aventure en kayak sur les eaux calmes des lacs."
+  },
+  {
+    "id": 3,
+    "name": "VTT en montagne",
+    "image": "/images/vtt.webp",
+    "description": "Découvrez les parcours de VTT adaptés à tous les niveaux."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Le Cerfeuil - Epicerie Fine",
+    "image": "/images/cerfeuil.webp",
+    "description": "Pl. du Monument 13, 5630 Cerfontaine"
+  },
+  {
+    "id": 2,
+    "name": "Boulangerie Chez Christophe",
+    "image": "/images/christophe.webp",
+    "description": "Rue Au delà de l'Eau 2, 5630 Cerfontaine"
+  },
+  {
+    "id": 3,
+    "name": "Intermarché Cerfontaine",
+    "image": "/images/intermarche.webp",
+    "description": "Rue de la Gare 22, 5630 Cerfontaine"
+  }
+]

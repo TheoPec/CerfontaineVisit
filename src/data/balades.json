@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Sentier des cerfs",
+    "image": "/images/sentier-cerfs.webp",
+    "description": "Une balade pittoresque au cœur de la nature."
+  },
+  {
+    "id": 2,
+    "name": "Promenade des lacs",
+    "image": "/images/promenade-lacs.webp",
+    "description": "Admirez les paysages autour des lacs de Cerfontaine."
+  },
+  {
+    "id": 3,
+    "name": "Circuit historique",
+    "image": "/images/circuit-historique.webp",
+    "description": "Découvrez les monuments historiques de la région."
+  }
+]
