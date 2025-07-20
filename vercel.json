@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/restaurants",
+      "destination": "/"
+    },
+    {
+      "source": "/logement",
+      "destination": "/"
+    },
+    {
+      "source": "/balades",
+      "destination": "/"
+    },
+    {
+      "source": "/activites",
+      "destination": "/"
+    },
+    {
+      "source": "/magasins",
+      "destination": "/"
+    }
+  ]
+}
