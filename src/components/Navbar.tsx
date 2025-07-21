@@ -42,29 +42,29 @@ const Navbar = () => {
         }}
       >
         <li>
-          <a href="/restaurants" style={{ color: 'white', textDecoration: 'none' }}>
+          <Link to="/restaurants" style={{ color: 'white', textDecoration: 'none' }}>
             Restaurants
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="/logement" style={{ color: 'white', textDecoration: 'none' }}>
+          <Link to="/logement" style={{ color: 'white', textDecoration: 'none' }}>
             Logements
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="/balades" style={{ color: 'white', textDecoration: 'none' }}>
+          <Link to="/balades" style={{ color: 'white', textDecoration: 'none' }}>
             Balades
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="/activites" style={{ color: 'white', textDecoration: 'none' }}>
+          <Link to="/activites" style={{ color: 'white', textDecoration: 'none' }}>
             Activités
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="/magasins" style={{ color: 'white', textDecoration: 'none' }}>
+          <Link to="/magasins" style={{ color: 'white', textDecoration: 'none' }}>
             Magasins
-          </a>
+          </Link>
         </li>
       </ul>
     </nav>
